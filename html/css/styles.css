@@ -1,0 +1,16 @@
+
+body {
+  background-color: lightyellow;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+
+
+h3 {
+  color: darkgreen;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
